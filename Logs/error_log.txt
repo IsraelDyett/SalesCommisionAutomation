@@ -1,0 +1,33 @@
+2024-08-21 16:10:29,495 - ERROR - 
+	@overWriteMonthAndYear = 0,
+	@FY = None,
+	@CalMnth = None,
+	Directory = None
+	
+2024-08-21 16:14:31,802 - ERROR - An error occurred: expected str, bytes or os.PathLike object, not NoneType
+2024-08-21 16:16:36,728 - ERROR - 
+	@overWriteMonthAndYear = 0,
+	@FY = None,
+	@CalMnth = None,
+	Directory = C:\DevelopmentApps
+	
+2024-08-21 16:26:19,658 - ERROR - 
+	@overWriteMonthAndYear = 0,
+	@FY = None,
+	@CalMnth = None,
+	Directory = 'C:\Users\idyette\Downloads
+	
+2024-08-21 16:27:26,353 - ERROR - 
+	@overWriteMonthAndYear = 0,
+	@FY = None,
+	@CalMnth = None,
+	Directory = 'C:\Users\idyette\Downloads'
+	
+2024-08-21 16:30:44,755 - ERROR - An error occurred: [WinError 123] The filename, directory name, or volume label syntax is incorrect: "'C:"
+2024-08-21 16:31:52,205 - ERROR - An error occurred: [WinError 123] The filename, directory name, or volume label syntax is incorrect: "'C:"
+2024-08-21 16:32:06,702 - ERROR - 
+	@overWriteMonthAndYear = 0,
+	@FY = None,
+	@CalMnth = None,
+	Directory = C:\Users\idyette\Downloads
+	
